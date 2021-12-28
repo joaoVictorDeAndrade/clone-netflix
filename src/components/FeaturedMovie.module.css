@@ -1,5 +1,5 @@
 .featured {
-  height: 80vh;
+  height: 100vh;
 }
 
 .featuredVertical {
@@ -16,6 +16,7 @@
   flex-direction: column;
   justify-content: center;
   padding-left: 30px;
+  padding-bottom: 150px;
 }
 
 .featuredName {
